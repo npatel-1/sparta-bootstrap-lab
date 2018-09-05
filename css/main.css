@@ -1,0 +1,21 @@
+.form-control {
+  width: 50%;
+}
+
+.card img {
+  width:100%;
+}
+
+.container2 img {
+  height: 400px;
+}
+
+
+.container3 {
+  padding-top: 125px;
+  padding-left: 45%;
+}
+
+.jumbotron {
+  text-align: center;
+}
