@@ -10,7 +10,6 @@
   height: 400px;
 }
 
-
 .container3 {
   padding-top: 125px;
   padding-left: 45%;
@@ -18,4 +17,10 @@
 
 .jumbotron {
   text-align: center;
+}
+
+.footer-page2 {
+  position: absolute;
+  bottom: 0;
+
 }
